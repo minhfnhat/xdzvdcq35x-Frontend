@@ -1,0 +1,74 @@
+{
+  "components": [
+    {
+      "id": "FooterFourColumnWithNewsletterBelow"
+    },
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Empower your productivity and streamline your tasks with our innovative solution. Discover the future of work.",
+        "title": "Revolutionize Your Workday with WorkD"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Empower your productivity and streamline your tasks with our innovative solution. Discover the future of work.",
+        "title": "Revolutionize Your Workday with WorkD"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Empower your productivity and streamline your tasks with our innovative solution. Discover the future of work.",
+        "title": "Revolutionize Your Workday with WorkD"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Empower your productivity and streamline your tasks with our innovative solution. Discover the future of work.",
+        "title": "Revolutionize Your Workday with WorkD"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Empower your productivity and streamline your tasks with our innovative solution. Discover the future of work.",
+        "title": "Revolutionize Your Workday with WorkD"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Empower your productivity and streamline your tasks with our innovative solution. Discover the future of work.",
+        "title": "Revolutionize Your Workday with WorkD"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Empower your productivity and streamline your tasks with our innovative solution. Discover the future of work.",
+        "title": "Revolutionize Your Workday with WorkD"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Empower your productivity and streamline your tasks with our innovative solution. Discover the future of work.",
+        "title": "Revolutionize Your Workday with WorkD"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Empower your productivity and streamline your tasks with our innovative solution. Discover the future of work.",
+        "title": "Revolutionize Your Workday with WorkD"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Revolutionize Your Workday with WorkD",
+  "subtitle": "Empower your productivity and streamline your tasks with our innovative solution. Discover the future of work."
+}
